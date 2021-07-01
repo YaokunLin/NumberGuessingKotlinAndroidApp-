@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Random!? or Not Random!</string>
+    <string name="dice_icon">A simple vector asset represneting randomness</string>
+    <string name="placeholder_number">42</string>
+    <string name="input_hint">🔢 Enter A Target 🔫</string>
+    <string name="btn_txt">🎯</string>
+    <string name="rand_btn_txt">⚡ Start A Random Number 🎲</string>
+    <string name="plusSignButn">+</string>
+    <string name="minusBtn">−</string>
+    <string name="placeholder_interval">1</string>
+    <string name="txtViewTries">Tries: </string>
+    <string name="place_holder_tries">0</string>
+    <string name="plus_minus_text_view_placeholder"> Plus 🎰 Minus 🎱</string>
+    <string name="target_txt_view">🎯</string>
+    <string name="target_place_holder">target</string>
+    <string name="GoodJob">🤜🤛</string>
+</resources>
